@@ -1,0 +1,19 @@
+{
+  "name": "quotebubble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jimp": "^0.22.10",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.3"
+  }
+}
